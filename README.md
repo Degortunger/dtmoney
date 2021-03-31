@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <sub> Made with 💖 by
-    <a href="https://github.com/LeonneBrito">Leonne Brito.
+  <sub> Made by
+    <a href="https://github.com/Degortunger">Bruno Eusébio.
   </sub>
 </div>
 
