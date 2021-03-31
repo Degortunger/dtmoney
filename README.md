@@ -2,19 +2,6 @@
    <img src="./.github/logo.svg" alt="Move It" width="300"/>
 </p>
 
-<p align="center">	
-   <a href="https://www.linkedin.com/in/leonne-sousa-brito/">
-      <img alt="LeonneBrito" src="https://img.shields.io/badge/-LeonneBrito-5965e0?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/dt.money?color=%235963C5" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/dt.money?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/dt.money?color=%235E69D7" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/dt.money?color=%235965E0">
-  <a href="mailto:contato@leonnebrito.com.br">
-   <img alt="Email" src="https://img.shields.io/badge/-contato%40leonnebrito.com.br-%23525DCB" />
-  </a>
-</p>
-
 <p align="center">
   :moneybag: Manage your money. Project developed during the second Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
