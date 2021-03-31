@@ -51,7 +51,7 @@ Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
 
-Create a <a href="https://github.com/LeonneBrito/dt.money/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
+Create a <a href="https://github.com/Degortunger/dtmoney/issues">new issue report</a>, it will be an honor to be able to help you solve and further improve our application.
 
 
 Thank you! 🌠
