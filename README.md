@@ -18,8 +18,6 @@
 * [Technologies](#rocket-technologies) 
 * [How to Run](#computer-how-to-run)
 * [Issues](#bug-issues)
-* [Contributing](#sparkles-issues)
-* [License](#page_facing_up-license)
 
 # :camera: Screenshots
 <div align="center">
@@ -37,7 +35,7 @@ This project was made using the follow technologies:
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/LeonneBrito/dt.money.git
+$ git clone https://github.com/Degortunger/dtmoney.git
 ```
 
 ```bash
